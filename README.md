@@ -133,7 +133,35 @@ Run the django server and execute the html file.
 ```
 
 ## Output:
-Include your output screenshot here
+
+## SERVER OUTPUT
+
+![image](https://github.com/KANISHKAR2607/places-around-me/assets/118886772/f331f8dd-e30b-4249-a93c-0cbcbeee2c9a)
+
+## PLACE
+
+![IMG-20230428-WA0007](https://github.com/KANISHKAR2607/places-around-me/assets/118886772/a38f254f-c43f-4922-9912-e475f28aab0b)
+
+## HOSPITAL
+
+![IMG-20230428-WA0004](https://github.com/KANISHKAR2607/places-around-me/assets/118886772/25b4cefe-206e-49d3-9815-ddc5512abf3d)
+
+## THEATRE
+
+![IMG-20230428-WA0005](https://github.com/KANISHKAR2607/places-around-me/assets/118886772/7a2a8dd3-b9a4-4849-b584-2b8ec262bdc7)
+
+## SCHOOL
+
+![IMG-20230428-WA0006](https://github.com/KANISHKAR2607/places-around-me/assets/118886772/71075df1-ce27-4a48-984a-e07f6dc3da81)
+
+## BUS STAND
+
+![IMG-20230428-WA0003](https://github.com/KANISHKAR2607/places-around-me/assets/118886772/84d3a58b-e06c-4160-9a4c-b5675e274462)
+
+## FIRE STATION
+
+![IMG-20230428-WA0002](https://github.com/KANISHKAR2607/places-around-me/assets/118886772/2110c512-cca6-44a5-afc8-fb8b65503738)
+
 
 ## Result:
-Write your result
+Thus the program has been executed.
